@@ -1,0 +1,28 @@
+.minus, .plus{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: cadetblue;
+    border-radius: 70px;
+    outline: none;
+}
+.plus:hover{
+    background-color: salmon;
+}
+.minus:hover{
+    background-color: salmon;
+}
+.minusText, .plusText{
+    color: black;
+    font-size: 17px;
+}
+.numberStyles{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+.counter{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+}
